@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      xmlns:s="https://github.com/nturley/netlistsvg"
-     width="800" height="300">
+     width="1000" height="600">
     <s:properties>
         <s:layoutEngine
                 org.eclipse.elk.layered.spacing.nodeNodeBetweenLayers="35"
@@ -33,25 +33,27 @@
         }
     </style>
 
-    <g s:type="positive" s:width="15" s:heigth="16">
+    <g s:type="positive" s:width="30" s:heigth="16" style="stroke-width:2">
         <s:alias val="$positive"/>
         <polyline points="7.2,15.7 7.2,0"/>
         <polyline points="0,7.8 14.3,7.8"/>
+        <text x="24" y="10" class="nodelabel $cell_id" s:attribute="name" />
 
-        <g s:x="7.2" s:y="16" s:pid="A"/>
+        <g s:x="7.2" s:y="20" s:pid="A"/>
     </g>
 
-    <g s:type="negative" s:width="15" s:height="16">
+    <g s:type="negative" s:width="30" s:height="16" style="stroke-width:2">
         <s:alias val="$negative"/>
         <polyline points="0,0 14.2,0"/>
+        <text x="24" y="3" class="nodelabel $cell_id" s:attribute="name" />
 
-        <g s:x="7.1" s:y="1" s:pid="A"/>
+        <g s:x="7.1" s:y="-4" s:pid="A"/>
     </g>
 
     <g s:type="rect" s:width="56" s:height="36">
         <s:alias val="$rect"/>
         <rect width="56" height="36"/>
-        <text x="5" y="5" class="nodelabel $cell_id" s:attribute="ref">rect</text>
+        <text x="20" y="20" class="nodelabel $cell_id" s:attribute="name" />
 
         <g s:x="28" s:y="0" s:pid="A"/>
         <g s:x="28" s:y="36" s:pid="B"/>
@@ -65,6 +67,9 @@
         <s:alias val="$speaker"/>
         <polyline points="79.5,95.8 35.1,95.8 35.1,23.2 79.5,23.2 79.5,95.8"/>
         <polyline points="35.1,23.2 0,0 0,118.5 35.1,95.8"/>
+
+        <text x="120" y="40" class="nodelabel $cell_id" s:attribute="name"/>
+        <text x="120" y="60" class="nodelabel $cell_id" s:attribute="desc"/>
         <g s:x="57.3" s:y="22.9" s:pid="A"/>
         <g s:x="57.3" s:y="95.5" s:pid="B"/>
     </g>
@@ -74,6 +79,8 @@
         <polyline
                 points="26.7,13.3 26.5,11.3 26.1,9.3 25.3,7.5 24.3,5.7 23.1,4.2 21.6,2.8 20,1.7 18.2,0.8 16.3,0.3 14.3,0 12.3,0 10.4,0.3 8.5,0.8 6.7,1.7 5,2.8 3.6,4.2 2.3,5.7 1.3,7.5 0.6,9.3 0.1,11.3 0,13.3"/>
         <polyline points="13.3,13.3 13.3,33.2" style="stroke-width:3"/>
+
+        <text x="40" y="5" class="nodelabel $cell_id" s:attribute="name"/>
         <g s:x="13.3" s:y="0" s:pid="A"/>
         <g s:x="13.3" s:y="33.2" s:pid="B"/>
     </g>
