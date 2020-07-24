@@ -1,0 +1,104 @@
+{
+    "modules": {
+        "demo": {
+          "cells": {
+            "e1": {
+              "type": "$positive",
+              "port_directions": {
+                "A": "output"
+              },
+              "connections":{ 
+                "A": [1]
+              },
+              "attributes": {
+                "name": "X2"
+              }
+            },
+            "e2": {
+              "type": "$rect",
+              "port_directions": {
+                "A": "input",
+                "B": "output"
+              },
+              "connections":{ 
+                "A": [1],
+                "B": [2]
+              },
+              "attributes": {
+                "name": "U95"
+              }
+
+            },
+            "e3": {
+              "type": "$capacitance",
+              "port_directions": {
+                "A": "input",
+                "B": "output"
+              },
+              "connections":{ 
+                "A": [2],
+                "B": [3]
+              },
+              "attributes": { 
+                "name": "X502"
+              }
+            },
+            "e4": {
+              "type": "$speaker",
+              "port_directions": {
+                "A": "input",
+                "B": "output"
+              },
+              "connections":{ 
+                "A": [3],
+                "B": [4]
+              },
+              "attributes": { 
+                "name": "P19AG",
+                "desc": "扬声器 - 左前车门"
+              }
+            },
+            "e5": {
+              "type": "$capacitance",
+              "port_directions": {
+                "A": "input",
+                "B": "output"
+              },
+              "connections":{ 
+                "A": [4],
+                "B": [5]
+              },
+              "attributes": { 
+                "name": "X502"
+              }
+            },
+            "e6": {
+              "type": "$rect",
+              "port_directions": {
+                "A": "input",
+                "B": "output"
+              },
+              "connections":{ 
+                "A": [5],
+                "B": [6]
+              },
+              "attributes": {
+                "name": "U95"
+              }
+            },
+            "e7": {
+              "type": "$negative",
+              "port_directions": {
+                "A": "input"
+              },
+              "connections":{ 
+                "A": [6]
+              },
+              "attributes": {
+                "name": "X2"
+              }
+            }
+          }
+        }
+    }
+}

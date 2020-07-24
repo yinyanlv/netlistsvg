@@ -1,0 +1,1183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" baseProfile="full" class="page01" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    xmlns:ev="http://www.w3.org/2001/xml-events"
+    xmlns:webcgm="http://www.w3.org/Graphics/WebCGM" 
+    width="870" height="612" viewBox="0 0 2463 1843"
+    preserveAspectRatio="xMidYMid meet"
+>
+<title>5036943.svg</title>
+<desc>SDI CGM SVG Version 1.68 Date:2015-08-25 16:42:28</desc>
+<style type="text/css">
+<![CDATA[
+.aps-region:hover 
+{
+  stroke: red;
+  fill: red;
+  opacity: 0.5;
+} 
+.aps:hover *
+{
+  stroke: red !important;
+  opacity: 0.5;
+}
+.aps:hover polygon
+{
+  stroke: red !important;
+  fill: red;
+  opacity: 0.5;
+} 
+ ]]>
+</style>
+
+
+<rect x="0" y="0" width="2463" height="1843" style="fill: #FFFFFF"/>
+<g id="34" class="aps" webcgm:type="grobject" webcgm:name="CKT_WIRE" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="1459.6,502.6 1459.6,1728.5"/>
+<polyline points="1459.6,1728.5 1285.6,1728.5"/>
+<polyline points="1285.6,1728.5 1285.6,1609.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1285.6,1599.5 1285.6,1728.5"/>
+<polyline points="1285.6,1728.5 1459.6,1728.5"/>
+<polyline points="1459.6,1728.5 1459.6,492.6"/>
+</g>
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="656.7,502.6 656.7,1728.5"/>
+<polyline points="656.7,1728.5 482.7,1728.5"/>
+<polyline points="482.7,1728.5 482.7,1609.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="482.7,1599.5 482.7,1728.5"/>
+<polyline points="482.7,1728.5 656.7,1728.5"/>
+<polyline points="656.7,1728.5 656.7,492.6"/>
+</g>
+</g>
+<g id="201" class="aps" webcgm:type="grobject" webcgm:name="CKT_WIRE" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="1117.5,502.6 1117.5,1728.5"/>
+<polyline points="1117.5,1728.5 940.8,1728.5"/>
+<polyline points="940.8,1728.5 940.8,1609.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="940.8,1599.5 940.8,1728.5"/>
+<polyline points="940.8,1728.5 1117.5,1728.5"/>
+<polyline points="1117.5,1728.5 1117.5,492.6"/>
+</g>
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="314.5,502.6 314.5,1728.5"/>
+<polyline points="314.5,1728.5 137.9,1728.5"/>
+<polyline points="137.9,1728.5 137.9,1609.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="137.9,1599.5 137.9,1728.5"/>
+<polyline points="137.9,1728.5 314.5,1728.5"/>
+<polyline points="314.5,1728.5 314.5,492.6"/>
+</g>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="863.2" y="226.9" width="1328.4" height="265.7" style="fill:none;stroke:#000000;stroke-width:3.8;" stroke-dasharray="20 15"/>
+<polyline points="969.5,1599.5 915.1,1599.5 915.1,1526.9 969.5,1526.9 969.5,1599.5"/>
+<polyline points="915.1,1526.9 890,1503.7 890,1622.2 915.1,1599.5"/>
+<polyline points="1653,1595.9 1598.6,1595.9 1598.6,1523.3 1653,1523.3 1653,1595.9"/>
+<polyline points="1598.6,1523.3 1573.6,1500.1 1573.6,1618.6 1598.6,1595.9"/>
+<polyline points="1974.7,1595.9 1920.3,1595.9 1920.3,1523.3 1974.7,1523.3 1974.7,1595.9"/>
+<polyline points="1920.3,1523.3 1895.3,1500.1 1895.3,1618.6 1920.3,1595.9"/>
+</g>
+<g id="118" class="aps" webcgm:type="grobject" webcgm:name="CKT_WIRE" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="938.5,1516.9 938.5,502.6"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="938.5,492.6 938.5,1526.9"/>
+</g>
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="135.5,1516.9 135.5,502.6"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="135.5,492.6 135.5,1526.9"/>
+</g>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="949.8" y="1514.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="CAV_2" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="949.6" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">2</text>
+</g>
+<g id="CONN_X2" class="aps" webcgm:type="grobject" webcgm:name="CKT_CONN" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="887.8" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X2</text>
+</g>
+<g id="CAV_6" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1128.5" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">6</text>
+</g>
+<g id="CAV_1" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="948.2" y="1625.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">1</text>
+</g>
+<g id="116" class="aps" webcgm:type="grobject" webcgm:name="CKT_WIRE" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="1624.4,1513.3 1624.4,502.6"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1624.4,492.6 1624.4,1523.3"/>
+</g>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1635.7" y="1510.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="CAV_1" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1634.2" y="515.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">1</text>
+</g>
+<g id="199" class="aps" webcgm:type="grobject" webcgm:name="CKT_WIRE" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="1785.5,502.6 1785.5,1727.2"/>
+<polyline points="1785.5,1727.2 1623.8,1727.2"/>
+<polyline points="1623.8,1727.2 1623.8,1605.9"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1623.8,1595.9 1623.8,1727.2"/>
+<polyline points="1623.8,1727.2 1785.5,1727.2"/>
+<polyline points="1785.5,1727.2 1785.5,492.6"/>
+</g>
+</g>
+<g id="CAV_5" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1796.7" y="515.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">5</text>
+</g>
+<g id="CAV_1" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1634.2" y="1622.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">1</text>
+</g>
+<g id="115" class="aps" webcgm:type="grobject" webcgm:name="CKT_WIRE" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="1946.8,1513.3 1946.8,502.6"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1946.8,492.6 1946.8,1523.3"/>
+</g>
+</g>
+<g id="CAV_4" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1958.1" y="515.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">4</text>
+</g>
+<g id="46" class="aps" webcgm:type="grobject" webcgm:name="CKT_WIRE" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="2095.8,502.6 2095.8,1727.2"/>
+<polyline points="2095.8,1727.2 1947,1727.2"/>
+<polyline points="1947,1727.2 1947,1605.9"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1947,1595.9 1947,1727.2"/>
+<polyline points="1947,1727.2 2095.8,1727.2"/>
+<polyline points="2095.8,1727.2 2095.8,492.6"/>
+</g>
+</g>
+<g id="CAV_8" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="2106.8" y="515.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">8</text>
+</g>
+<g id="CAV_1" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1956.6" y="1622.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">1</text>
+</g>
+<g id="118_RD/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="948.2" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">118</text>
+<text xml:space="preserve" font-size="21" x="948.5" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">RD/WH</text>
+</g>
+<g id="201_BU" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1128.6" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">201</text>
+<text xml:space="preserve" font-size="21" x="1127.7" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">BU</text>
+</g>
+<g id="116_BN" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1634.2" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">116</text>
+<text xml:space="preserve" font-size="21" x="1634.6" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">BN</text>
+</g>
+<g id="199_GY" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1795.3" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">199</text>
+<text xml:space="preserve" font-size="21" x="1796.4" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">GY</text>
+</g>
+<g id="115_VT/BK" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1956.6" y="681.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">115</text>
+<text xml:space="preserve" font-size="21" x="1958.7" y="702.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">VT/BK</text>
+</g>
+<g id="46_YE/BU" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="2107.1" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">46</text>
+<text xml:space="preserve" font-size="21" x="2107.7" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">YE/BU</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="939.7,485.4 939.7,469.7"/>
+<polyline points="932.6,477.5 946.9,477.5"/>
+<polyline points="1108.8,484.1 1122.9,484.1"/>
+<polyline points="1623.3,481.8 1623.3,466.1"/>
+<polyline points="1616.2,473.9 1630.5,473.9"/>
+<polyline points="1779.6,480.5 1793.8,480.5"/>
+<polyline points="1947.5,481.8 1947.5,466.1"/>
+<polyline points="1940.3,473.9 1954.6,473.9"/>
+<polyline points="2087.9,480.5 2102.1,480.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:2;">
+<polyline points="1017.8,436.2 1017.8,462.6"/>
+<polyline points="1005.4,439.1 1005.4,459.7 1005.4,460.1 1005.5,460.6 1005.7,461 1005.9,461.4 1006.2,461.7 1006.6,462 1007,462.3 1007.4,462.5 1007.8,462.6 1008.3,462.6 1027.2,462.6 1027.7,462.6 1028.1,462.5 1028.6,462.3 1028.9,462 1029.3,461.7 1029.6,461.4 1029.8,461 1030,460.6 1030.1,460.1 1030.1,459.7 1030.1,439.1 1030.1,438.6 1030,438.2 1029.8,437.7 1029.6,437.3 1029.3,437 1028.9,436.7 1028.6,436.5 1028.1,436.3 1027.7,436.2 1027.2,436.1 1008.3,436.1 1007.8,436.2 1007.4,436.3 1007,436.5 1006.6,436.7 1006.2,437 1005.9,437.3"/>
+<polyline points="1005.9,437.3 1005.7,437.7 1005.5,438.2 1005.4,438.6 1005.4,439.1"/>
+<polyline points="1030.1,449.4 1005.4,449.4"/>
+</g>
+<g style="fill:#000000;stroke:none;">
+<polygon points="1017.8,436.1 1008.3,436.1 1007.9,436.2 1007.4,436.3 1007,436.5 1006.6,436.7 1006.3,437 1006,437.3 1005.7,437.7 1005.5,438.2 1005.4,438.6 1005.4,439.1 1005.4,449.4 1017.8,449.4"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:2;">
+<polyline points="2003.8,430.9 2003.8,457.3"/>
+<polyline points="1991.4,433.7 1991.4,454.3 1991.4,454.8 1991.6,455.2 1991.7,455.7 1992,456.1 1992.3,456.4 1992.6,456.7 1993,456.9 1993.4,457.1 1993.9,457.2 1994.3,457.3 2013.3,457.3 2013.7,457.2 2014.2,457.1 2014.6,456.9 2015,456.7 2015.3,456.4 2015.6,456.1 2015.9,455.7 2016,455.2 2016.2,454.8 2016.2,454.3 2016.2,433.7 2016.2,433.3 2016,432.8 2015.9,432.4 2015.6,432 2015.3,431.6 2015,431.4 2014.6,431.1 2014.2,430.9 2013.7,430.8 2013.3,430.8 1994.3,430.8 1993.9,430.8 1993.4,430.9 1993,431.1 1992.6,431.4 1992.3,431.6 1992,432"/>
+<polyline points="1992,432 1991.7,432.4 1991.6,432.8 1991.4,433.3 1991.4,433.7"/>
+<polyline points="2016.2,444 1991.4,444"/>
+</g>
+<g style="fill:#000000;stroke:none;">
+<polygon points="2016.2,444 2003.8,444 2003.8,457.3 2013.3,457.3 2013.7,457.2 2014.2,457.1 2014.6,456.9 2015,456.7 2015.3,456.4 2015.6,456.1 2015.9,455.7 2016,455.2 2016.2,454.8 2016.2,454.3"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:2;">
+<polyline points="1697,429.1 1697,455.5"/>
+<polyline points="1684.5,432 1684.5,452.6 1684.6,453.1 1684.7,453.5 1684.9,453.9 1685.1,454.3 1685.4,454.7 1685.8,455 1686.1,455.2 1686.6,455.4 1687,455.5 1687.5,455.5 1706.4,455.5 1706.9,455.5 1707.3,455.4 1707.7,455.2 1708.1,455 1708.5,454.7 1708.8,454.3 1709,453.9 1709.2,453.5 1709.3,453.1 1709.3,452.6 1709.3,432 1709.3,431.5 1709.2,431.1 1709,430.7 1708.8,430.3 1708.5,429.9 1708.1,429.6 1707.7,429.4 1707.3,429.2 1706.9,429.1 1706.4,429.1 1687.5,429.1 1687,429.1 1686.6,429.2 1686.1,429.4 1685.8,429.6 1685.4,429.9 1685.1,430.3"/>
+<polyline points="1685.1,430.3 1684.9,430.7 1684.7,431.1 1684.6,431.5 1684.5,432"/>
+<polyline points="1709.3,442.3 1684.5,442.3"/>
+</g>
+<g style="fill:#000000;stroke:none;">
+<polygon points="1697,442.3 1684.5,442.3 1684.5,452.6 1684.6,453.1 1684.7,453.5 1684.9,453.9 1685.1,454.3 1685.4,454.7 1685.8,455 1686.1,455.2 1686.6,455.4 1687,455.5 1687.5,455.5 1697,455.5"/>
+</g>
+<g id="118_RD/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="948.2" y="1384.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">118</text>
+<text xml:space="preserve" font-size="21" x="948.5" y="1405.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">RD/WH</text>
+</g>
+<g id="201_BU" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1128.6" y="1386.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">201</text>
+<text xml:space="preserve" font-size="21" x="1127.7" y="1407.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">BU</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1317.9,1599.5 1263.4,1599.5 1263.4,1526.9 1317.9,1526.9 1317.9,1599.5"/>
+<polyline points="1263.4,1526.9 1238.4,1503.7 1238.4,1622.2 1263.4,1599.5"/>
+</g>
+<g id="117" class="aps" webcgm:type="grobject" webcgm:name="CKT_WIRE" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="1286.8,1516.9 1286.8,502.6"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1286.8,492.6 1286.8,1526.9"/>
+</g>
+<g style="fill:none;stroke:#FFFFFF;stroke-width:10;">
+<polyline points="483.9,1516.9 483.9,502.6"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="483.9,492.6 483.9,1526.9"/>
+</g>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1298.1" y="1514.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1298.1" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="CAV_7" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1470.5" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">7</text>
+</g>
+<g id="CAV_1" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1296.6" y="1625.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">1</text>
+</g>
+<g id="117_GN/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1296.6" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">117</text>
+<text xml:space="preserve" font-size="21" x="1297.7" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">GN/WH</text>
+</g>
+<g id="34_OG" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1470.9" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">34</text>
+<text xml:space="preserve" font-size="21" x="1470.4" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">OG</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1288.1,485.4 1288.1,469.7"/>
+<polyline points="1280.9,477.5 1295.2,477.5"/>
+<polyline points="1450.9,484.1 1465.1,484.1"/>
+</g>
+<g id="117_GN/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1296.6" y="1384.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">117</text>
+<text xml:space="preserve" font-size="21" x="1297.7" y="1405.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">GN/WH</text>
+</g>
+<g id="34_OG" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1470.9" y="1386.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">34</text>
+<text xml:space="preserve" font-size="21" x="1470.4" y="1407.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">OG</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:2;">
+<polyline points="1357,437.4 1357,463.8"/>
+<polyline points="1344.6,440.2 1344.6,460.8 1344.6,461.3 1344.7,461.7 1344.9,462.2 1345.2,462.6 1345.5,462.9 1345.8,463.2 1346.2,463.4 1346.6,463.6 1347.1,463.7 1347.5,463.8 1366.5,463.8 1366.9,463.7 1367.4,463.6 1367.8,463.4 1368.2,463.2 1368.5,462.9 1368.8,462.6 1369.1,462.2 1369.2,461.7 1369.3,461.3 1369.4,460.8 1369.4,440.2 1369.3,439.8 1369.2,439.3 1369.1,438.9 1368.8,438.5 1368.5,438.1 1368.2,437.8 1367.8,437.6 1367.4,437.4 1366.9,437.3 1366.5,437.3 1347.5,437.3 1347.1,437.3 1346.6,437.4 1346.2,437.6 1345.8,437.8 1345.5,438.1 1345.2,438.5"/>
+<polyline points="1345.2,438.5 1344.9,438.9 1344.7,439.3 1344.6,439.8 1344.6,440.2"/>
+<polyline points="1369.4,450.5 1344.6,450.5"/>
+</g>
+<g style="fill:#000000;stroke:none;">
+<polygon points="1357,437.3 1366.5,437.3 1366.9,437.3 1367.4,437.4 1367.8,437.6 1368.2,437.8 1368.5,438.1 1368.8,438.5 1369.1,438.9 1369.2,439.3 1369.3,439.8 1369.4,440.2 1369.4,450.5 1357,450.5"/>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1958.1" y="1510.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="297_YE" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1958" y="1073.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">297</text>
+<text xml:space="preserve" font-size="21" x="1958.7" y="1094.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">YE</text>
+</g>
+<g id="295_YE/BU" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="2106.9" y="1071.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">295</text>
+<text xml:space="preserve" font-size="21" x="2107.7" y="1092.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">YE/BU</text>
+</g>
+<g id="277_VT/BK" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1635.5" y="1071.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">277</text>
+<text xml:space="preserve" font-size="21" x="1636.2" y="1092.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">VT/BK</text>
+</g>
+<g id="278_BN/YE" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1796.7" y="1071.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">278</text>
+<text xml:space="preserve" font-size="21" x="1795.7" y="1092.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">BN/YE</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="77.9" y="226.9" width="631.1" height="265.7" style="fill:none;stroke:#000000;stroke-width:3.8;" stroke-dasharray="20 15"/>
+<polyline points="166.6,1599.5 112.2,1599.5 112.2,1526.9 166.6,1526.9 166.6,1599.5"/>
+<polyline points="112.2,1526.9 87.1,1503.7 87.1,1622.2 112.2,1599.5"/>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="146.8" y="1514.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="CAV_2" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="146.7" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">2</text>
+</g>
+<g id="CONN_X2" class="aps" webcgm:type="grobject" webcgm:name="CKT_CONN" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="84.9" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X2</text>
+</g>
+<g id="CAV_6" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="325.6" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">6</text>
+</g>
+<g id="CAV_1" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="145.3" y="1625.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">1</text>
+</g>
+<g id="118_RD/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="145.3" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">118</text>
+<text xml:space="preserve" font-size="21" x="145.6" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">RD/WH</text>
+</g>
+<g id="201_BU" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="325.7" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">201</text>
+<text xml:space="preserve" font-size="21" x="324.7" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">BU</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="136.8,485.4 136.8,469.7"/>
+<polyline points="129.6,477.5 143.9,477.5"/>
+<polyline points="305.8,484.1 320,484.1"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:2;">
+<polyline points="214.8,436.2 214.8,462.6"/>
+<polyline points="202.4,439.1 202.4,459.7 202.5,460.1 202.6,460.6 202.8,461 203,461.4 203.3,461.7 203.6,462 204,462.3 204.5,462.5 204.9,462.6 205.4,462.6 224.3,462.6 224.8,462.6 225.2,462.5 225.6,462.3 226,462 226.4,461.7 226.7,461.4 226.9,461 227.1,460.6 227.2,460.1 227.2,459.7 227.2,439.1 227.2,438.6 227.1,438.2 226.9,437.7 226.7,437.3 226.4,437 226,436.7 225.6,436.5 225.2,436.3 224.8,436.2 224.3,436.1 205.4,436.1 204.9,436.2 204.5,436.3 204,436.5 203.6,436.7 203.3,437 203,437.3"/>
+<polyline points="203,437.3 202.8,437.7 202.6,438.2 202.5,438.6 202.4,439.1"/>
+<polyline points="227.2,449.4 202.4,449.4"/>
+</g>
+<g style="fill:#000000;stroke:none;">
+<polygon points="214.8,436.1 205.4,436.1 204.9,436.2 204.5,436.3 204.1,436.5 203.7,436.7 203.3,437 203,437.3 202.8,437.7 202.6,438.2 202.5,438.6 202.5,439.1 202.5,449.4 214.8,449.4"/>
+</g>
+<g id="118_RD/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="145.3" y="1384.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">118</text>
+<text xml:space="preserve" font-size="21" x="145.6" y="1405.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">RD/WH</text>
+</g>
+<g id="201_BU" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="325.7" y="1386.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">201</text>
+<text xml:space="preserve" font-size="21" x="324.7" y="1407.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">BU</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="514.9,1599.5 460.5,1599.5 460.5,1526.9 514.9,1526.9 514.9,1599.5"/>
+<polyline points="460.5,1526.9 435.5,1503.7 435.5,1622.2 460.5,1599.5"/>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="495.2" y="1514.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="495.2" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="CAV_7" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="667.6" y="519"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">7</text>
+</g>
+<g id="CAV_1" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="493.7" y="1625.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">1</text>
+</g>
+<g id="117_GN/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="493.7" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">117</text>
+<text xml:space="preserve" font-size="21" x="494.7" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">GN/WH</text>
+</g>
+<g id="34_OG" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="668" y="679.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">34</text>
+<text xml:space="preserve" font-size="21" x="667.5" y="700.6"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">OG</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="485.1,485.4 485.1,469.7"/>
+<polyline points="478,477.5 492.3,477.5"/>
+<polyline points="648,484.1 662.1,484.1"/>
+</g>
+<g id="117_GN/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="493.7" y="1386.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">117</text>
+<text xml:space="preserve" font-size="21" x="494.7" y="1407.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">GN/WH</text>
+</g>
+<g id="34_OG" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="668" y="1386.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">34</text>
+<text xml:space="preserve" font-size="21" x="667.5" y="1407.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">OG</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:2;">
+<polyline points="554.1,437.4 554.1,463.8"/>
+<polyline points="541.7,440.2 541.7,460.8 541.7,461.3 541.8,461.7 542,462.2 542.2,462.6 542.5,462.9 542.9,463.2 543.3,463.4 543.7,463.6 544.1,463.7 544.6,463.8 563.5,463.8 564,463.7 564.4,463.6 564.9,463.4 565.2,463.2 565.6,462.9 565.9,462.6 566.1,462.2 566.3,461.7 566.4,461.3 566.4,460.8 566.4,440.2 566.4,439.8 566.3,439.3 566.1,438.9 565.9,438.5 565.6,438.1 565.2,437.8 564.9,437.6 564.4,437.4 564,437.3 563.5,437.3 544.6,437.3 544.1,437.3 543.7,437.4 543.3,437.6 542.9,437.8 542.5,438.1 542.2,438.5"/>
+<polyline points="542.2,438.5 542,438.9 541.8,439.3 541.7,439.8 541.7,440.2"/>
+<polyline points="566.4,450.5 541.7,450.5"/>
+</g>
+<g style="fill:#000000;stroke:none;">
+<polygon points="554.1,437.3 563.5,437.3 564,437.3 564.4,437.4 564.9,437.6 565.2,437.8 565.6,438.1 565.9,438.5 566.1,438.9 566.3,439.3 566.4,439.8 566.4,440.2 566.4,450.5 554.1,450.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline stroke-dasharray="10 10" points="121.5,500.1 121.5,532.6 691.6,532.6 691.6,500.1"/>
+</g>
+<g id="117_GN/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="493.7" y="1071.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">117</text>
+<text xml:space="preserve" font-size="21" x="494.7" y="1092.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">GN/WH</text>
+</g>
+<g id="34_OG" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="668" y="1072.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">34</text>
+<text xml:space="preserve" font-size="21" x="667.5" y="1094"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">OG</text>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="107.5,616.7 163.6,616.7 163.6,581.1 107.5,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="115.9" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">U95</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="107.5" y="581.1" width="56.1" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_U95" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_U95-region" class="aps-region" x="117.5" y="591.1" width="37" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="286.4,616.7 342.6,616.7 342.6,581.1 286.4,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="294.9" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">U95</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="286.4" y="581.1" width="56.1" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_U95" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_U95-region" class="aps-region" x="296.4" y="591.1" width="37" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="455.8,616.7 511.9,616.7 511.9,581.1 455.8,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="464.2" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">U95</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="455.8" y="581.1" width="56.1" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_U95" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_U95-region" class="aps-region" x="465.8" y="591.1" width="36" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="628.6,616.7 684.7,616.7 684.7,581.1 628.6,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="637" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">U95</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="628.6" y="581.1" width="56.1" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_U95" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_U95-region" class="aps-region" x="638.6" y="591.1" width="36" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g id="117_GN/WH" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1296.6" y="1071.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">117</text>
+<text xml:space="preserve" font-size="21" x="1297.7" y="1092.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">GN/WH</text>
+</g>
+<g id="34_OG" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1470.9" y="1072.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">34</text>
+<text xml:space="preserve" font-size="21" x="1470.4" y="1094"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">OG</text>
+</g>
+<g id="297_YE" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1958" y="1386.7"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">297</text>
+<text xml:space="preserve" font-size="21" x="1958.7" y="1407.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">YE</text>
+</g>
+<g id="295_YE/BU" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="2106.9" y="1384.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">295</text>
+<text xml:space="preserve" font-size="21" x="2107.7" y="1405.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">YE/BU</text>
+</g>
+<g id="277_BN" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1635.5" y="1386.7"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">277</text>
+<text xml:space="preserve" font-size="21" x="1634.6" y="1407.8"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">BN</text>
+</g>
+<g id="278_GY" class="aps" webcgm:type="grobject" webcgm:name="CKT_NUMBER" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1796.7" y="1386.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">278</text>
+<text xml:space="preserve" font-size="21" x="1796.4" y="1407.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">GY</text>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="121.1,776.3 107.8,789.6 342.3,806.8 328.9,820.2 342.3,806.8"/>
+<polyline points="684.4,807 671.1,820.4 684.4,807 456.1,790.3 469.5,776.9"/>
+<polyline points="1145.2,807.3 1131.9,820.6 1145.2,807.3 910.7,790 924,776.7"/>
+<polyline points="1272.4,776.9 1259.1,790.3 1487.3,807 1474,820.4 1487.3,807"/>
+<polyline points="1610,777.4 1596.6,790.7 1813.3,806.6 1799.9,819.9 1813.3,806.6"/>
+<polyline points="2123.5,804.4 2110.2,817.7 2123.5,804.4 1919.1,789.4 1932.4,776.1"/>
+<polyline points="121.1,1277.6 107.8,1291 342.3,1308.2 328.9,1321.5 342.3,1308.2"/>
+<polyline points="684.4,1306.8 671.1,1320.1 684.4,1306.8 456.1,1290.1 469.5,1276.7"/>
+<polyline points="1145.2,1308.8 1131.9,1322.1 1145.2,1308.8 910.7,1291.6 924,1278.2"/>
+<polyline points="1272.4,1278.5 1259.1,1291.8 1487.3,1308.6 1474,1321.9 1487.3,1308.6"/>
+<polyline points="1610,1278.9 1596.6,1292.2 1813.3,1308.1 1799.9,1321.5 1813.3,1308.1"/>
+<polyline points="2123.5,1307.7 2110.2,1321 2123.5,1307.7 1919.1,1292.7 1932.4,1279.3"/>
+<rect x="906.2" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="906.2,616.7 970.7,616.7 970.7,581.1 906.2,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="914.6" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">UW4</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="906.2" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_UW4" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_UW4-region" class="aps-region" x="916.2" y="591.1" width="45" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1085.2" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1085.2,616.7 1149.7,616.7 1149.7,581.1 1085.2,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1093.6" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">UW4</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1085.2" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_UW4" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_UW4-region" class="aps-region" x="1095.2" y="591.1" width="45" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1254.6" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1254.6,616.7 1319.1,616.7 1319.1,581.1 1254.6,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1263" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">UW4</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1254.6" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_UW4" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_UW4-region" class="aps-region" x="1264.6" y="591.1" width="44" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1427.3" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1427.3,616.7 1491.8,616.7 1491.8,581.1 1427.3,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1435.8" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">UW4</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1427.3" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_UW4" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_UW4-region" class="aps-region" x="1437.3" y="591.1" width="45" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1592.1" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1592.1,616.7 1656.6,616.7 1656.6,581.1 1592.1,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1600.6" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">UW4</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1592.1" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_UW4" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_UW4-region" class="aps-region" x="1602.1" y="591.1" width="45" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1753.3" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1753.3,616.7 1817.8,616.7 1817.8,581.1 1753.3,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1761.7" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">UW4</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1753.3" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_UW4" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_UW4-region" class="aps-region" x="1763.3" y="591.1" width="45" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1914.6" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1914.6,616.7 1979.1,616.7 1979.1,581.1 1914.6,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1923" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">UW4</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="1914.6" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_UW4" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_UW4-region" class="aps-region" x="1924.6" y="591.1" width="44" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="2063.6" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="2063.6,616.7 2128,616.7 2128,581.1 2063.6,581.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="2072" y="606.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">UW4</text>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="2063.6" y="581.1" width="64.5" height="35.5" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<g id="RPO_UW4" class="aps" webcgm:type="grobject" webcgm:name="RPO" cursor="pointer" pointer-events="all">
+<rect id="RPO_UW4-region" class="aps-region" x="2073.6" y="591.1" width="44" height="16" style="fill:none;stroke:none;"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline stroke-dasharray="10 10" points="924.5,500.1 924.5,532.6 2130.9,532.6 2130.9,500.1"/>
+</g>
+<g id="LOC" class="aps" webcgm:type="grobject" webcgm:name="LOC" cursor="pointer" pointer-events="all">
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="2345" y="116.3" width="75.3" height="70.8" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+<text xml:space="preserve" font-size="21" x="2359.3" y="142.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">L</text>
+<text xml:space="preserve" font-size="21" x="2375" y="160.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">O</text>
+<text xml:space="preserve" font-size="21" x="2392.7" y="176.2"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">C</text>
+</g>
+<g id="NEXT" class="aps" webcgm:type="grobject" webcgm:name="NEXT" cursor="pointer" pointer-events="all">
+<g style="fill:#000000;stroke:none;">
+<polygon points="2383.2,458.1 2383.2,470 2406.3,452.2 2383.2,434.4 2383.2,446.2 2360,446.2 2360,458.1"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<rect x="2345.3" y="416.8" width="75.3" height="70.8" style="fill:none;stroke:#000000;stroke-width:3.8;"/>
+</g>
+</g>
+<g id="X502" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X502-region" class="aps-region" x="867.2" y="1170.8" width="294" height="50" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="938.5,1201.1 938.5,1221"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="949.9,1201.1 926.8,1201.1 926.9,1198.9 927.8,1196 929,1194 930.2,1192.7 931.6,1191.5 933.2,1190.5 935.6,1189.7 938.2,1189.3 940.4,1189.4 942.7,1190.2 944.8,1191.1 946.9,1192.8 948.2,1194.5 949.3,1196.4 950,1198.2 950.2,1200.4 950.2,1201 949.9,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="951.8,1201.1 951.6,1199.1 951.2,1197.1 950.5,1195.3 949.5,1193.5 948.2,1192 946.8,1190.6 945.1,1189.5 943.3,1188.6 941.4,1188.1 939.5,1187.8 937.5,1187.8 935.5,1188.1 933.6,1188.6 931.8,1189.5 930.1,1190.6 928.7,1192 927.4,1193.5 926.4,1195.3 925.7,1197.1 925.3,1199.1 925.1,1201.1"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="867.2,1186.4 867.2,1170.8 915.5,1170.8 915.5,1186.4"/>
+</g>
+<text xml:space="preserve" font-size="21" x="867.2" y="1186"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X502</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1117.5,1201.1 1117.5,1221"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1128.9,1201.1 1105.8,1201.1 1105.9,1198.9 1106.8,1196 1108,1194 1109.2,1192.7 1110.6,1191.5 1112.2,1190.5 1114.6,1189.7 1117.2,1189.3 1119.4,1189.4 1121.7,1190.2 1123.8,1191.1 1125.9,1192.8 1127.2,1194.5 1128.2,1196.4 1129,1198.2 1129.2,1200.4 1129.2,1201 1128.9,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1130.8,1201.1 1130.6,1199.1 1130.2,1197.1 1129.5,1195.3 1128.5,1193.5 1127.2,1192 1125.8,1190.6 1124.1,1189.5 1122.3,1188.6 1120.4,1188.1 1118.4,1187.8 1116.5,1187.8 1114.5,1188.1 1112.6,1188.6 1110.8,1189.5 1109.1,1190.6 1107.7,1192 1106.4,1193.5 1105.4,1195.3 1104.7,1197.1 1104.3,1199.1 1104.1,1201.1"/>
+<polyline stroke-dasharray="10 10" points="951.8,1201.1 1104.1,1201.1"/>
+</g>
+<g id="X601" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X601-region" class="aps-region" x="1218.9" y="1170.8" width="274" height="50" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1286.8,1201.1 1286.8,1221"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1298.3,1201.1 1275.2,1201.1 1275.3,1198.9 1276.2,1196 1277.4,1194 1278.5,1192.7 1280,1191.5 1281.6,1190.5 1283.9,1189.7 1286.5,1189.3 1288.8,1189.4 1291,1190.2 1293.2,1191.1 1295.2,1192.8 1296.6,1194.5 1297.6,1196.4 1298.3,1198.2 1298.5,1200.4 1298.6,1201 1298.3,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1300.1,1201.1 1300,1199.1 1299.5,1197.1 1298.8,1195.3 1297.8,1193.5 1296.6,1192 1295.1,1190.6 1293.5,1189.5 1291.7,1188.6 1289.8,1188.1 1287.8,1187.8 1285.8,1187.8 1283.8,1188.1 1281.9,1188.6 1280.1,1189.5 1278.5,1190.6 1277,1192 1275.8,1193.5 1274.8,1195.3 1274.1,1197.1 1273.6,1199.1 1273.5,1201.1"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1218.9,1186.4 1218.9,1170.8 1263.8,1170.8 1263.8,1186.4"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1218.9" y="1186"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X601</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1459.6,1201.1 1459.6,1221"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1471.1,1201.1 1447.9,1201.1 1448,1198.9 1448.9,1196 1450.1,1194 1451.3,1192.7 1452.8,1191.5 1454.4,1190.5 1456.7,1189.7 1459.3,1189.3 1461.5,1189.4 1463.8,1190.2 1466,1191.1 1468,1192.8 1469.3,1194.5 1470.4,1196.4 1471.1,1198.2 1471.3,1200.4 1471.4,1201 1471.1,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1472.9,1201.1 1472.8,1199.1 1472.3,1197.1 1471.6,1195.3 1470.6,1193.5 1469.4,1192 1467.9,1190.6 1466.2,1189.5 1464.5,1188.6 1462.5,1188.1 1460.6,1187.8 1458.6,1187.8 1456.6,1188.1 1454.7,1188.6 1452.9,1189.5 1451.3,1190.6 1449.8,1192 1448.6,1193.5 1447.6,1195.3 1446.8,1197.1 1446.4,1199.1 1446.2,1201.1"/>
+<polyline stroke-dasharray="10 10" points="1300.1,1201.1 1446.2,1201.1"/>
+</g>
+<g id="X205" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X205-region" class="aps-region" x="1553.1" y="919.3" width="277" height="51" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1624.4,949.6 1624.4,969.5"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1635.9,949.6 1612.7,949.6 1612.8,947.4 1613.7,944.5 1614.9,942.5 1616.1,941.2 1617.6,940 1619.1,939 1621.5,938.2 1624.1,937.8 1626.3,937.9 1628.6,938.6 1630.8,939.6 1632.8,941.3 1634.1,943 1635.2,944.9 1635.9,946.6 1636.1,948.9 1636.2,949.5 1635.9,949.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1637.7,949.6 1637.6,947.6 1637.1,945.6 1636.4,943.8 1635.4,942 1634.2,940.5 1632.7,939.1 1631,938 1629.3,937.1 1627.3,936.6 1625.4,936.3 1623.4,936.3 1621.4,936.6 1619.5,937.1 1617.7,938 1616.1,939.1 1614.6,940.5 1613.4,942 1612.4,943.8 1611.6,945.6 1611.2,947.6 1611,949.6"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1553.1,934.9 1553.1,919.3 1601.4,919.3 1601.4,934.9"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1553.1" y="934.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X205</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1785.5,949.6 1785.5,969.5"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1797,949.6 1773.9,949.6 1774,947.4 1774.9,944.5 1776.1,942.5 1777.2,941.2 1778.7,940 1780.3,939 1782.7,938.2 1785.2,937.8 1787.5,937.9 1789.7,938.6 1791.9,939.6 1794,941.3 1795.3,943 1796.3,944.9 1797.1,946.6 1797.3,948.9 1797.3,949.5 1797,949.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1798.9,949.6 1798.7,947.6 1798.3,945.6 1797.5,943.8 1796.5,942 1795.3,940.5 1793.8,939.1 1792.2,938 1790.4,937.1 1788.5,936.6 1786.5,936.3 1784.5,936.3 1782.6,936.6 1780.6,937.1 1778.9,938 1777.2,939.1 1775.7,940.5 1774.5,942 1773.5,943.8 1772.8,945.6 1772.3,947.6 1772.2,949.6"/>
+<polyline stroke-dasharray="10 10" points="1637.7,949.6 1772.2,949.6"/>
+</g>
+<g id="X207" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X207-region" class="aps-region" x="1875.4" y="919.3" width="254" height="51" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1946.8,949.6 1946.8,969.5"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1958.3,949.6 1935.2,949.6 1935.3,947.4 1936.2,944.5 1937.4,942.5 1938.5,941.2 1940,940 1941.6,939 1944,938.2 1946.5,937.8 1948.8,937.9 1951.1,938.6 1953.2,939.6 1955.3,941.3 1956.6,943 1957.6,944.9 1958.4,946.6 1958.6,948.9 1958.6,949.5 1958.3,949.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1960.2,949.6 1960,947.6 1959.6,945.6 1958.8,943.8 1957.8,942 1956.6,940.5 1955.1,939.1 1953.5,938 1951.7,937.1 1949.8,936.6 1947.8,936.3 1945.8,936.3 1943.9,936.6 1942,937.1 1940.2,938 1938.5,939.1 1937.1,940.5 1935.8,942 1934.8,943.8 1934.1,945.6 1933.6,947.6 1933.5,949.6"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1875.4,934.9 1875.4,919.3 1923.8,919.3 1923.8,934.9"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1875.4" y="934.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X207</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="2095.8,949.6 2095.8,969.5"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="2107.3,949.6 2084.2,949.6 2084.3,947.4 2085.2,944.5 2086.4,942.5 2087.5,941.2 2089,940 2090.6,939 2092.9,938.2 2095.5,937.8 2097.8,937.9 2100,938.6 2102.2,939.6 2104.2,941.3 2105.5,943 2106.6,944.9 2107.3,946.6 2107.5,948.9 2107.6,949.5 2107.3,949.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="2109.1,949.6 2109,947.6 2108.5,945.6 2107.8,943.8 2106.8,942 2105.6,940.5 2104.1,939.1 2102.5,938 2100.7,937.1 2098.8,936.6 2096.8,936.3 2094.8,936.3 2092.8,936.6 2090.9,937.1 2089.1,938 2087.5,939.1 2086,940.5 2084.8,942 2083.8,943.8 2083.1,945.6 2082.6,947.6 2082.5,949.6"/>
+<polyline stroke-dasharray="10 10" points="1960.2,949.6 2082.5,949.6"/>
+</g>
+<g id="X701" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X701-region" class="aps-region" x="1556.5" y="1170.8" width="263" height="50" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1624.4,1201.1 1624.4,1221"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1635.9,1201.1 1612.7,1201.1 1612.8,1198.9 1613.7,1196 1614.9,1194 1616.1,1192.7 1617.6,1191.5 1619.1,1190.5 1621.5,1189.7 1624.1,1189.3 1626.3,1189.4 1628.6,1190.2 1630.8,1191.1 1632.8,1192.8 1634.1,1194.5 1635.2,1196.4 1635.9,1198.2 1636.1,1200.4 1636.2,1201 1635.9,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1637.7,1201.1 1637.6,1199.1 1637.1,1197.1 1636.4,1195.3 1635.4,1193.5 1634.2,1192 1632.7,1190.6 1631,1189.5 1629.3,1188.6 1627.3,1188.1 1625.4,1187.8 1623.4,1187.8 1621.4,1188.1 1619.5,1188.6 1617.7,1189.5 1616.1,1190.6 1614.6,1192 1613.4,1193.5 1612.4,1195.3 1611.6,1197.1 1611.2,1199.1 1611,1201.1"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1556.5,1186.4 1556.5,1170.8 1601.4,1170.8 1601.4,1186.4"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1556.5" y="1186"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X701</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1785.5,1201.1 1785.5,1221"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1797,1201.1 1773.9,1201.1 1774,1198.9 1774.9,1196 1776.1,1194 1777.2,1192.7 1778.7,1191.5 1780.3,1190.5 1782.7,1189.7 1785.2,1189.3 1787.5,1189.4 1789.7,1190.2 1791.9,1191.1 1794,1192.8 1795.3,1194.5 1796.3,1196.4 1797.1,1198.2 1797.3,1200.4 1797.3,1201 1797,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1798.9,1201.1 1798.7,1199.1 1798.3,1197.1 1797.5,1195.3 1796.5,1193.5 1795.3,1192 1793.8,1190.6 1792.2,1189.5 1790.4,1188.6 1788.5,1188.1 1786.5,1187.8 1784.5,1187.8 1782.6,1188.1 1780.7,1188.6 1778.9,1189.5 1777.2,1190.6 1775.7,1192 1774.5,1193.5 1773.5,1195.3 1772.8,1197.1 1772.3,1199.1 1772.2,1201.1"/>
+<polyline stroke-dasharray="10 10" points="1637.7,1201.1 1772.2,1201.1"/>
+</g>
+<g id="X801" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X801-region" class="aps-region" x="1878.9" y="1170.8" width="250" height="50" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1946.8,1201.1 1946.8,1221"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1958.3,1201.1 1935.2,1201.1 1935.3,1198.9 1936.2,1196 1937.4,1194 1938.5,1192.7 1940,1191.5 1941.6,1190.5 1944,1189.7 1946.5,1189.3 1948.8,1189.4 1951.1,1190.2 1953.2,1191.1 1955.3,1192.8 1956.6,1194.5 1957.6,1196.4 1958.4,1198.2 1958.6,1200.4 1958.6,1201 1958.3,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1960.2,1201.1 1960,1199.1 1959.6,1197.1 1958.8,1195.3 1957.8,1193.5 1956.6,1192 1955.1,1190.6 1953.5,1189.5 1951.7,1188.6 1949.8,1188.1 1947.8,1187.8 1945.8,1187.8 1943.9,1188.1 1942,1188.6 1940.2,1189.5 1938.5,1190.6 1937,1192 1935.8,1193.5 1934.8,1195.3 1934.1,1197.1 1933.6,1199.1 1933.5,1201.1"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1878.9,1186.4 1878.9,1170.8 1923.8,1170.8 1923.8,1186.4"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1878.9" y="1186"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X801</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="2095.8,1201.1 2095.8,1221"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="2107.3,1201.1 2084.2,1201.1 2084.3,1198.9 2085.2,1196 2086.4,1194 2087.5,1192.7 2089,1191.5 2090.6,1190.5 2092.9,1189.7 2095.5,1189.3 2097.8,1189.4 2100,1190.2 2102.2,1191.1 2104.2,1192.8 2105.5,1194.5 2106.6,1196.4 2107.3,1198.2 2107.5,1200.4 2107.6,1201 2107.3,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="2109.1,1201.1 2109,1199.1 2108.5,1197.1 2107.8,1195.3 2106.8,1193.5 2105.6,1192 2104.1,1190.6 2102.5,1189.5 2100.7,1188.6 2098.8,1188.1 2096.8,1187.8 2094.8,1187.8 2092.8,1188.1 2090.9,1188.6 2089.1,1189.5 2087.5,1190.6 2086,1192 2084.8,1193.5 2083.8,1195.3 2083.1,1197.1 2082.6,1199.1 2082.5,1201.1"/>
+<polyline stroke-dasharray="10 10" points="1960.2,1201.1 2082.5,1201.1"/>
+</g>
+<g id="X502" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X502-region" class="aps-region" x="64.3" y="1170.8" width="294" height="50" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="135.5,1201.1 135.5,1221"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="147,1201.1 123.9,1201.1 124,1198.9 124.9,1196 126.1,1194 127.2,1192.7 128.7,1191.5 130.3,1190.5 132.7,1189.7 135.2,1189.3 137.5,1189.4 139.8,1190.2 141.9,1191.1 144,1192.8 145.3,1194.5 146.3,1196.4 147.1,1198.2 147.3,1200.4 147.3,1201 147,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="148.9,1201.1 148.7,1199.1 148.3,1197.1 147.5,1195.3 146.5,1193.5 145.3,1192 143.8,1190.6 142.2,1189.5 140.4,1188.6 138.5,1188.1 136.5,1187.8 134.5,1187.8 132.6,1188.1 130.7,1188.6 128.9,1189.5 127.2,1190.6 125.8,1192 124.5,1193.5 123.5,1195.3 122.8,1197.1 122.3,1199.1 122.2,1201.1"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="64.3,1186.4 64.3,1170.8 112.5,1170.8 112.5,1186.4"/>
+</g>
+<text xml:space="preserve" font-size="21" x="64.3" y="1186"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X502</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="314.5,1201.1 314.5,1221"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="326,1201.1 302.9,1201.1 303,1198.9 303.9,1196 305.1,1194 306.2,1192.7 307.7,1191.5 309.3,1190.5 311.7,1189.7 314.2,1189.3 316.5,1189.4 318.8,1190.2 320.9,1191.1 323,1192.8 324.3,1194.5 325.3,1196.4 326.1,1198.2 326.3,1200.4 326.3,1201 326,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="327.9,1201.1 327.7,1199.1 327.3,1197.1 326.5,1195.3 325.5,1193.5 324.3,1192 322.8,1190.6 321.2,1189.5 319.4,1188.6 317.5,1188.1 315.5,1187.8 313.5,1187.8 311.6,1188.1 309.7,1188.6 307.9,1189.5 306.2,1190.6 304.7,1192 303.5,1193.5 302.5,1195.3 301.8,1197.1 301.3,1199.1 301.2,1201.1"/>
+<polyline stroke-dasharray="10 10" points="148.9,1201.1 301.2,1201.1"/>
+</g>
+<g id="X601" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X601-region" class="aps-region" x="416" y="1170.8" width="274" height="50" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="483.9,1201.1 483.9,1221"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="495.4,1201.1 472.2,1201.1 472.3,1198.9 473.2,1196 474.4,1194 475.6,1192.7 477.1,1191.5 478.6,1190.5 481,1189.7 483.6,1189.3 485.8,1189.4 488.1,1190.2 490.3,1191.1 492.3,1192.8 493.6,1194.5 494.7,1196.4 495.4,1198.2 495.6,1200.4 495.7,1201 495.4,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="497.2,1201.1 497.1,1199.1 496.6,1197.1 495.9,1195.3 494.9,1193.5 493.7,1192 492.2,1190.6 490.5,1189.5 488.8,1188.6 486.8,1188.1 484.9,1187.8 482.9,1187.8 480.9,1188.1 479,1188.6 477.2,1189.5 475.6,1190.6 474.1,1192 472.9,1193.5 471.9,1195.3 471.1,1197.1 470.7,1199.1 470.5,1201.1"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="416,1186.4 416,1170.8 460.9,1170.8 460.9,1186.4"/>
+</g>
+<text xml:space="preserve" font-size="21" x="416" y="1186"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X601</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="656.7,1201.1 656.7,1221"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="668.1,1201.1 645,1201.1 645.1,1198.9 646,1196 647.2,1194 648.4,1192.7 649.8,1191.5 651.4,1190.5 653.8,1189.7 656.4,1189.3 658.6,1189.4 660.9,1190.2 663,1191.1 665.1,1192.8 666.4,1194.5 667.4,1196.4 668.2,1198.2 668.4,1200.4 668.4,1201 668.1,1201"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="670,1201.1 669.8,1199.1 669.4,1197.1 668.7,1195.3 667.7,1193.5 666.4,1192 665,1190.6 663.3,1189.5 661.5,1188.6 659.6,1188.1 657.7,1187.8 655.7,1187.8 653.7,1188.1 651.8,1188.6 650,1189.5 648.3,1190.6 646.9,1192 645.6,1193.5 644.6,1195.3 643.9,1197.1 643.5,1199.1 643.3,1201.1"/>
+<polyline stroke-dasharray="10 10" points="497.2,1201.1 643.3,1201.1"/>
+</g>
+<g id="X206" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X206-region" class="aps-region" x="412.3" y="919.3" width="278" height="51" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="483.9,949.6 483.9,969.5"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="495.4,949.6 472.2,949.6 472.3,947.4 473.2,944.5 474.4,942.5 475.6,941.2 477.1,940 478.6,939 481,938.2 483.6,937.8 485.8,937.9 488.1,938.6 490.3,939.6 492.3,941.3 493.6,943 494.7,944.9 495.4,946.6 495.6,948.9 495.7,949.5 495.4,949.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="497.2,949.6 497.1,947.6 496.6,945.6 495.9,943.8 494.9,942 493.7,940.5 492.2,939.1 490.5,938 488.8,937.1 486.8,936.6 484.9,936.3 482.9,936.3 480.9,936.6 479,937.1 477.2,938 475.6,939.1 474.1,940.5 472.9,942 471.9,943.8 471.1,945.6 470.7,947.6 470.5,949.6"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="412.3,934.9 412.3,919.3 460.9,919.3 460.9,934.9"/>
+</g>
+<text xml:space="preserve" font-size="21" x="412.4" y="934.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X206</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="656.7,949.6 656.7,969.5"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="668.1,949.6 645,949.6 645.1,947.4 646,944.5 647.2,942.5 648.4,941.2 649.8,940 651.4,939 653.8,938.2 656.4,937.8 658.6,937.9 660.9,938.6 663,939.6 665.1,941.3 666.4,943 667.4,944.9 668.2,946.6 668.4,948.9 668.4,949.5 668.1,949.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="670,949.6 669.8,947.6 669.4,945.6 668.7,943.8 667.7,942 666.4,940.5 665,939.1 663.3,938 661.5,937.1 659.6,936.6 657.7,936.3 655.7,936.3 653.7,936.6 651.8,937.1 650,938 648.3,939.1 646.9,940.5 645.6,942 644.6,943.8 643.9,945.6 643.5,947.6 643.3,949.6"/>
+<polyline stroke-dasharray="10 10" points="497.2,949.6 643.3,949.6"/>
+</g>
+<g id="X206" class="aps" webcgm:type="grobject" webcgm:name="INLINE_CONNECTOR" cursor="pointer" pointer-events="all">
+<rect id="X206-region" class="aps-region" x="1215.3" y="919.3" width="278" height="51" style="fill:none;stroke:none;"/>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1286.8,949.6 1286.8,969.5"/>
+</g>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1298.3,949.6 1275.2,949.6 1275.3,947.4 1276.2,944.5 1277.4,942.5 1278.5,941.2 1280,940 1281.6,939 1283.9,938.2 1286.5,937.8 1288.8,937.9 1291,938.6 1293.2,939.6 1295.2,941.3 1296.6,943 1297.6,944.9 1298.3,946.6 1298.5,948.9 1298.6,949.5 1298.3,949.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1300.1,949.6 1300,947.6 1299.5,945.6 1298.8,943.8 1297.8,942 1296.6,940.5 1295.1,939.1 1293.5,938 1291.7,937.1 1289.8,936.6 1287.8,936.3 1285.8,936.3 1283.8,936.6 1281.9,937.1 1280.1,938 1278.5,939.1 1277,940.5 1275.8,942 1274.8,943.8 1274.1,945.6 1273.6,947.6 1273.5,949.6"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1215.3,934.9 1215.3,919.3 1263.8,919.3 1263.8,934.9"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1215.3" y="934.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">X206</text>
+<g style="fill:none;stroke:#000000;stroke-width:8;">
+<polyline points="1459.6,949.6 1459.6,969.5"/>
+</g>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1471.1,949.6 1447.9,949.6 1448,947.4 1448.9,944.5 1450.1,942.5 1451.3,941.2 1452.8,940 1454.4,939 1456.7,938.2 1459.3,937.8 1461.5,937.9 1463.8,938.6 1466,939.6 1468,941.3 1469.3,943 1470.4,944.9 1471.1,946.6 1471.3,948.9 1471.4,949.5 1471.1,949.5"/>
+</g>
+<g style="fill:none;stroke:#000000;stroke-width:3.8;">
+<polyline points="1472.9,949.6 1472.8,947.6 1472.3,945.6 1471.6,943.8 1470.6,942 1469.4,940.5 1467.9,939.1 1466.2,938 1464.5,937.1 1462.5,936.6 1460.6,936.3 1458.6,936.3 1456.6,936.6 1454.7,937.1 1452.9,938 1451.3,939.1 1449.8,940.5 1448.6,942 1447.6,943.8 1446.8,945.6 1446.4,947.6 1446.2,949.6"/>
+<polyline stroke-dasharray="10 10" points="1300.1,949.6 1446.2,949.6"/>
+</g>
+<g id="CAV_11" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="959.4" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">11</text>
+</g>
+<g id="CAV_14" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1138.4" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">14</text>
+</g>
+<g id="CAV_8" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1309" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">8</text>
+</g>
+<g id="CAV_9" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1481.9" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">9</text>
+</g>
+<g id="CAV_22" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1646.7" y="934.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">22</text>
+</g>
+<g id="CAV_23" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1807.8" y="934.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">23</text>
+</g>
+<g id="CAV_31" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1969.3" y="934.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">31</text>
+</g>
+<g id="CAV_5" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="2118.2" y="934.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">5</text>
+</g>
+<g id="CAV_5" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1646.7" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">5</text>
+</g>
+<g id="CAV_6" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1807.8" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">6</text>
+</g>
+<g id="CAV_3" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1969.3" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">3</text>
+</g>
+<g id="CAV_2" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="2118.1" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">2</text>
+</g>
+<g id="CAV_11" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="156.5" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">11</text>
+</g>
+<g id="CAV_14" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="335.5" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">14</text>
+</g>
+<g id="CAV_8" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="506.1" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">8</text>
+</g>
+<g id="CAV_9" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="679" y="1185.9"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">9</text>
+</g>
+<g id="CAV_20" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="506.2" y="934.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">20</text>
+</g>
+<g id="CAV_8" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="678.8" y="934.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">8</text>
+</g>
+<g id="CAV_20" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1309.1" y="934.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">20</text>
+</g>
+<g id="CAV_8" class="aps" webcgm:type="grobject" webcgm:name="CKT_CAVITY" cursor="pointer" pointer-events="all">
+<text xml:space="preserve" font-size="21" x="1481.8" y="934.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">8</text>
+</g>
+<g id="P19AL" class="aps" webcgm:type="grobject" webcgm:name="P19AL" cursor="pointer" pointer-events="all">
+<rect id="P19AL-region" class="aps-region" x="1659" y="1520.2" width="116" height="63" style="fill:none;stroke:none;"/>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1659,1646.8 1775.3,1646.8 1775.3,1520.2 1659,1520.2"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1657.3" y="1541.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">P19AL</text>
+<text xml:space="preserve" font-size="21" x="1657.8" y="1562.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">扬声器 - 左</text>
+<text xml:space="preserve" font-size="21" x="1658" y="1583.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">后车门</text>
+</g>
+<g id="P19AM" class="aps" webcgm:type="grobject" webcgm:name="P19AM" cursor="pointer" pointer-events="all">
+<rect id="P19AM-region" class="aps-region" x="1980.9" y="1520.2" width="103" height="63" style="fill:none;stroke:none;"/>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1980.9,1646.8 2083.9,1646.8 2083.9,1520.2 1980.9,1520.2"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1979.3" y="1541.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">P19AM</text>
+<text xml:space="preserve" font-size="21" x="1979.7" y="1562.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">扬声器 - </text>
+<text xml:space="preserve" font-size="21" x="1979.4" y="1583.5"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">右后车门</text>
+</g>
+<g id="P19AG" class="aps" webcgm:type="grobject" webcgm:name="P19AG" cursor="pointer" pointer-events="all">
+<rect id="P19AG-region" class="aps-region" x="975.6" y="1519.1" width="131" height="63" style="fill:none;stroke:none;"/>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="975.6,1603.5 1107.1,1603.5 1107.1,1498 975.6,1498"/>
+</g>
+<text xml:space="preserve" font-size="21" x="974" y="1540.2"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">P19AG</text>
+<text xml:space="preserve" font-size="21" x="974.5" y="1561.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">扬声器 - 左前</text>
+<text xml:space="preserve" font-size="21" x="974.7" y="1582.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">车门</text>
+</g>
+<g id="P19AH" class="aps" webcgm:type="grobject" webcgm:name="P19AH" cursor="pointer" pointer-events="all">
+<rect id="P19AH-region" class="aps-region" x="1322.7" y="1519.1" width="123" height="63" style="fill:none;stroke:none;"/>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="1322.7,1603.5 1446.1,1603.5 1446.1,1498 1322.7,1498"/>
+</g>
+<text xml:space="preserve" font-size="21" x="1321" y="1540.2"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">P19AH</text>
+<text xml:space="preserve" font-size="21" x="1321.5" y="1561.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">扬声器 - 右</text>
+<text xml:space="preserve" font-size="21" x="1321.1" y="1582.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">前车门</text>
+</g>
+<g id="QWL09" class="aps" webcgm:type="grobject" webcgm:name="QWL09" cursor="pointer" pointer-events="all">
+<rect id="QWL09-region" class="aps-region" x="2204.6" y="220" width="116" height="42" style="fill:none;stroke:none;"/>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="2204.6,283.3 2320.5,283.3 2320.5,220 2204.6,220"/>
+</g>
+<text xml:space="preserve" font-size="21" x="2203.6" y="241.1"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">QWL09</text>
+<text xml:space="preserve" font-size="21" x="2202.7" y="262.2"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">多媒体模块</text>
+</g>
+<g id="P19AG" class="aps" webcgm:type="grobject" webcgm:name="P19AG" cursor="pointer" pointer-events="all">
+<rect id="P19AG-region" class="aps-region" x="172.7" y="1522.2" width="131" height="63" style="fill:none;stroke:none;"/>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="172.7,1606.5 304.2,1606.5 304.2,1501.1 172.7,1501.1"/>
+</g>
+<text xml:space="preserve" font-size="21" x="171.1" y="1543.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">P19AG</text>
+<text xml:space="preserve" font-size="21" x="171.5" y="1564.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">扬声器 - 左前</text>
+<text xml:space="preserve" font-size="21" x="171.8" y="1585.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">车门</text>
+</g>
+<g id="P19AH" class="aps" webcgm:type="grobject" webcgm:name="P19AH" cursor="pointer" pointer-events="all">
+<rect id="P19AH-region" class="aps-region" x="519.7" y="1519.1" width="123" height="63" style="fill:none;stroke:none;"/>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="519.7,1603.5 643.2,1603.5 643.2,1498 519.7,1498"/>
+</g>
+<text xml:space="preserve" font-size="21" x="518.1" y="1540.2"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">P19AH</text>
+<text xml:space="preserve" font-size="21" x="518.6" y="1561.3"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">扬声器 - 右</text>
+<text xml:space="preserve" font-size="21" x="518.1" y="1582.4"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">前车门</text>
+</g>
+<g id="A11" class="aps" webcgm:type="grobject" webcgm:name="A11" cursor="pointer" pointer-events="all">
+<rect id="A11-region" class="aps-region" x="720.9" y="219" width="72" height="42" style="fill:none;stroke:none;"/>
+<g style="fill:#FFFFFF;stroke:none;">
+<polygon points="720.9,303.4 792.5,303.4 792.5,219 720.9,219"/>
+</g>
+<text xml:space="preserve" font-size="21" x="720.9" y="240.1"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">A11</text>
+<text xml:space="preserve" font-size="21" x="719.5" y="261.2"
+fill="#000000" style="font-family:'Arial',sans-serif;font-style:normal;font-weight:bold;">收音机</text>
+</g>
+</svg>
+
+
